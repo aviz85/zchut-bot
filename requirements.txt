@@ -1,0 +1,6 @@
+flask
+jsonify
+request
+langchain
+langchain_openai
+google-search-results
